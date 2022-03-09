@@ -37,6 +37,6 @@ Indenting code with the TAB key really makes it that much quicker to indent a se
 
 Finally the new zoom function in the room editor, while one of the more noticeable changes they have made to GameMaker, I really didn't feel that excited about it. However now that I have used it, I'll never go back to GM 8.0.
 
-So that’s it for GM Lite, overall I'd give it 4.5/5 Neurons, while it has improved GameMaker greatly , the release felt &#8220;rushed&#8221; and there was a couple of really obvious bugs. I sure though with the new Auto-Updater these errors will be fixed over the coming days.
+So that’s it for GM Lite, overall I'd give it 4.5/5 Neurons, while it has improved GameMaker greatly, the release felt *rushed* and there was a couple of really obvious bugs. I sure though with the new Auto-Updater these errors will be fixed over the coming days.
 
 Till next time folks!
