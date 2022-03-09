@@ -1,0 +1,6 @@
+# Hugo Generated
+public/
+_gen/
+
+# Mac Files
+.DS_Store

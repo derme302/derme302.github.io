@@ -1,0 +1,80 @@
+## Basic Configuration
+baseurl = "https://derme.coffee/"
+languageCode = "en"
+
+title = "Derme's Coffee"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+disqusShortname = "dermes-coffee"
+googleAnalytics = "UA-144591183-1"
+enableRobotsTXT = true
+
+# summarylength = 30
+
+# paginate = 5
+
+## Site Settings
+[params]
+    author = "Author"
+    title = "Title"
+    # description = "..."
+    authorimage = "/img/DermeCoffeeIcon.png"
+    dateformat = "Jan 2, 2006"
+    layoutReverse = true
+    themeColor = "theme-custom-0a"
+
+    # sidebar, copyright & license
+    copyright = "Derme"
+    # license = "CC BY-SA 4.0"
+    # licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = false
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "derme302"
+    gitlab = "derme302"
+    instagram = "derme302"
+    twitter = "derme302"
+    stackoverflow = "3023853/derme302"
+    # telegram = "derme302"
+    # email = "your-email@example.com"
+    # gravatar = "your-email@example.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+    url = "/portfolio/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/page/about"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "github"
+    tabWidth = 4
