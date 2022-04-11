@@ -8,10 +8,7 @@ image: /uploads/2013/03/IMG_2180-600x400.png
 categories:
   - Level 19
 ---
-<div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2013/03/Official_Logo.png"><img src="http://derme.coffee/uploads/2013/03/Official_Logo-300x225.png" alt="" width="320" height="240" border="0" /></a>
-</div>
-
+![Chickens and Moles](/uploads/2013/03/Official_Logo-300x225.png#center)
 
 <a href="http://www.wormintheworks.com/apps/chickensandmoles/index.htm" target="_blank" rel="noopener">Chickens and Moles</a> is the latest release from the team over at <a href="http://www.wormintheworks.com/" target="_blank" rel="noopener">Wormintheworks</a>. The game is available on iOS, Android, Windows Phone, Windows, Mac and Facebook. I ended up scoring myself an iOS promo code.
 
