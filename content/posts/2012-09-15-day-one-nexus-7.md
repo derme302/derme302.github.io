@@ -6,14 +6,6 @@ author: Derme
 layout: post
 guid: http://derme.coffee/2012/day-one-nexus-7/
 permalink: /2012/09/day-one-nexus-7/
-blogger_blog:
-  - derme.coffee
-blogger_author:
-  - Derme
-blogger_permalink:
-  - /2012/09/day-one-nexus-7.html
-blogger_internal:
-  - /feeds/6224486094781961260/posts/default/1267023326865636304
 categories:
   - Tech
 tags:

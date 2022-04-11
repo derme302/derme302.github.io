@@ -6,14 +6,6 @@ author: Derme
 layout: post
 guid: http://derme.coffee/2013/rotated-hexels/
 permalink: /2013/11/rotated-hexels/
-blogger_blog:
-  - derme.coffee
-blogger_author:
-  - Derme
-blogger_permalink:
-  - /2013/11/rotated-hexels.html
-blogger_internal:
-  - /feeds/6224486094781961260/posts/default/8421094623672710982
 image: /uploads/2017/10/8BitSpaceShipsLarge.jpg
 categories:
   - Art

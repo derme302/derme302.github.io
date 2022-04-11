@@ -6,14 +6,6 @@ author: Derme
 layout: post
 guid: http://derme.coffee/2013/gamemaker-threejs-extension-demo/
 permalink: /2013/05/gamemaker-threejs-extension-demo/
-blogger_blog:
-  - derme.coffee
-blogger_author:
-  - Derme
-blogger_permalink:
-  - /2013/05/gamemaker-threejs-extension-demo_15.html
-blogger_internal:
-  - /feeds/6224486094781961260/posts/default/8537451408083134917
 image: /uploads/2013/05/Screen-Shot-2013-05-10-at-10.29.09-PM-624x464.png
 categories:
   - GameMaker
