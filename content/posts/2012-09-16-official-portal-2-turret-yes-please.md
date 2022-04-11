@@ -6,18 +6,10 @@ author: Derme
 layout: post
 guid: http://derme.coffee/2012/official-portal-2-turret-yes-please/
 permalink: /2012/09/official-portal-2-turret-yes-please/
-blogger_blog:
-  - derme.coffee
-blogger_author:
-  - Derme
-blogger_permalink:
-  - /2012/09/official-portal-2-turret-yes-please.html
-blogger_internal:
-  - /feeds/6224486094781961260/posts/default/5260068899251681629
 categories:
   - General
 ---
-![Portal 2 Sentry Turret Robot](http://derme.coffee/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg)
+![Portal 2 Sentry Turret Robot](/uploads/2012/09/valve-portal-2-sentry-turret-teaser.jpg)
 
 Portal would have to be one of my favourite puzzle games of all time the others being Lemmings and Portal 2.
 
