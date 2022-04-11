@@ -10,19 +10,18 @@ categories:
 ---
 ![Chickens and Moles](/uploads/2013/03/Official_Logo-300x225.png#center)
 
-<a href="http://www.wormintheworks.com/apps/chickensandmoles/index.htm" target="_blank" rel="noopener">Chickens and Moles</a> is the latest release from the team over at <a href="http://www.wormintheworks.com/" target="_blank" rel="noopener">Wormintheworks</a>. The game is available on iOS, Android, Windows Phone, Windows, Mac and Facebook. I ended up scoring myself an iOS promo code.
+Chickens and Moles is the latest release from the team over at [Wormintheworks](http://www.wormintheworks.com/). The game is available on iOS, Android, Windows Phone, Windows, Mac and Facebook. I ended up scoring myself an iOS promo code.
 
 <!--more-->
 
-When I first saw this game all I could think of was <a href="http://www.angrybirds.com/" target="_blank" rel="noopener">Angry Birds</a>, a game which has too many clones these days. However Chickens & Moles is a whole different type of gameplay to that of Angry Birds, one which you find yourself touching the screen to throw boulders at various objects in the hope of rescuing en-caged animals.
+When I first saw this game all I could think of was [Angry Birds](http://www.angrybirds.com/), a game which has too many clones these days. However Chickens & Moles is a whole different type of gameplay to that of Angry Birds, one which you find yourself touching the screen to throw boulders at various objects in the hope of rescuing en-caged animals.
 
 
 
-I only had one issue with the game is that occasionally the level would &#8216;time out' just before you were successful which lead to some moments of serious frustration, however after some alternate thinking I managed to get past those levels.
+I only had one issue with the game is that occasionally the level would time out just before you were successful which lead to some moments of serious frustration, however after some alternate thinking I managed to get past those levels.
 
 
 
-The game is made up of 60 levels which is approximately equal to two hours of game time and at the end I was left wanting more which is never a bad issue to have. (Update: The developer has <a href="https://twitter.com/GameDevDan/status/308948320808742912" target="_blank" rel="noopener">already confirmed</a> that a future update will expand the game to a total of 120 levels)
+The game is made up of 60 levels which is approximately equal to two hours of game time and at the end I was left wanting more which is never a bad issue to have. (Update: The developer has [already confirmed](https://twitter.com/GameDevDan/status/308948320808742912) that a future update will expand the game to a total of 120 levels)
 
-
-Final score: 3.5/5 Chicken nuggets.
+**Final score: 3.5/5 Chicken nuggets**
