@@ -12,7 +12,7 @@ categories:
 
 <a href="http://www.wormintheworks.com/apps/chickensandmoles/index.htm" target="_blank" rel="noopener">Chickens and Moles</a> is the latest release from the team over at <a href="http://www.wormintheworks.com/" target="_blank" rel="noopener">Wormintheworks</a>. The game is available on iOS, Android, Windows Phone, Windows, Mac and Facebook. I ended up scoring myself an iOS promo code.
 
-
+<!--more-->
 
 When I first saw this game all I could think of was <a href="http://www.angrybirds.com/" target="_blank" rel="noopener">Angry Birds</a>, a game which has too many clones these days. However Chickens & Moles is a whole different type of gameplay to that of Angry Birds, one which you find yourself touching the screen to throw boulders at various objects in the hope of rescuing en-caged animals.
 

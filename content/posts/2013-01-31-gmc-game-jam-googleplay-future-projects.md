@@ -15,16 +15,7 @@ categories:
   <a style="margin-left: 1em; margin-right: 1em;" href="http://derme.coffee/uploads/2013/01/title.png"><img src="http://derme.coffee/uploads/2013/01/title-300x69.png" alt="" width="320" height="74" border="0" /></a>
 </div>
 
-<div style="clear: both; text-align: center;">
-</div>
-
-<div style="clear: both; text-align: center;">
-</div>
-
 At the start of this week I entered the 9th GameMaker Community Game Jam, my entry wasn't as good as it could of been, in the end I only spent a small amount time working on it. However I had a lot of laughs making it and got some really helpful feedback, which I'll take with me when I go into the next Jam in three months.
-
-<div>
-</div>
 
 <table style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
   <tr>
