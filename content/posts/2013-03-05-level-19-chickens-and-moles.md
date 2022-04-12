@@ -16,11 +16,11 @@ Chickens and Moles is the latest release from the team over at [Wormintheworks](
 
 When I first saw this game all I could think of was [Angry Birds](http://www.angrybirds.com/), a game which has too many clones these days. However Chickens & Moles is a whole different type of gameplay to that of Angry Birds, one which you find yourself touching the screen to throw boulders at various objects in the hope of rescuing en-caged animals.
 
-
+![Gameplay](/uploads/2013/03/IMG_2180-600x400-300x200.png#center)
 
 I only had one issue with the game is that occasionally the level would time out just before you were successful which lead to some moments of serious frustration, however after some alternate thinking I managed to get past those levels.
 
-
+![Twitter](/uploads/2013/03/twitter_additional_levels.png#center)
 
 The game is made up of 60 levels which is approximately equal to two hours of game time and at the end I was left wanting more which is never a bad issue to have. (Update: The developer has [already confirmed](https://twitter.com/GameDevDan/status/308948320808742912) that a future update will expand the game to a total of 120 levels)
 
