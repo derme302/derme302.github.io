@@ -8,6 +8,8 @@ draft: false
 
 I've been flying a lot again lately and have realised how few choices there are when you want to play a game offline, with no ads and focused gameplay. I started the 'Just' series of games a few years ago when I was disappointed with how I couldn't 'just' play the game I wanted on my phone.
 
+<!--more-->
+
 The time has come again, unfortunately? If anything the app store feels like a worse place than when I last released a game, with a lot of options but very little choice.
 
 I wasn't sure where to initially restart the Just series, however I've been discussing with a friend about how there is hundreds of Bubble Shooters but no premium offering. While I plan to position Just Bubbles as a premium game there will be no cost associated with it, at this time, as charging $3 for a game is more effort than it's worth.
