@@ -7,7 +7,7 @@ theme = "hyde-hyde"
 
 ## Hugo Built-in Features
 disqusShortname = "dermes-coffee"
-googleAnalytics = "UA-144591183-1"
+googleAnalytics = "G-NN50SQHH5G"
 enableRobotsTXT = true
 
 # summarylength = 30
