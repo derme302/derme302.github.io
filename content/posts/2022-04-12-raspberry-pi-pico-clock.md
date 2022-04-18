@@ -3,7 +3,6 @@ title: "Raspberry Pi Pico Clock"
 date: 2022-04-12T13:11:00+10:00
 draft: false
 ---
-
 ![Pico Clock](/uploads/2022/04/pico-clock.png)
 
 I was reminded about a very cool clock that sits on my desk after a [kind Tweet from Matt Trentini](https://twitter.com/matt_trentini/status/1507951632687898627). It's been working so well that I almost forgot I built it.

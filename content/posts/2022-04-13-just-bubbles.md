@@ -1,9 +1,10 @@
 ---
 title: "Just Bubbles Development"
 date: 2022-04-13T00:06:00+10:00
+categories:
+  - GameMaker
 draft: false
 ---
-
 ![Just Bubbles](/uploads/2022/04/just-bubbles-game.png#center)
 
 I've been flying a lot again lately and have realised how few choices there are when you want to play a game offline, with no ads and focused gameplay. I started the 'Just' series of games a few years ago when I was disappointed with how I couldn't just play the game I wanted on my phone.
