@@ -1,7 +1,6 @@
 ---
-id: 136
-title: 'Cookie - Stop GameMaker deleting skins when updating'
-date: 2022-04-18T18:30:01+00:00
+title: 'Cookie - Reset GameMaker 2 DPI Settings'
+date: 2022-04-18T18:00:01+00:00
 author: Derme
 layout: post
 categories:
