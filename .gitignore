@@ -2,5 +2,8 @@
 public/
 _gen/
 
+hugo
+.hugo_build.lock
+
 # Mac Files
 .DS_Store
