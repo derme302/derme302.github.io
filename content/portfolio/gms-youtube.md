@@ -1,7 +1,7 @@
 ---
 title: "[GameMaker] GMY YouTube Pro"
 description: "Use the YouTube API in GameMaker (HTML5)"
-link: https://marketplace.yoyogames.com/assets/6065/gmy-youtube-pro
+link: https://github.com/derme302/gms-youtube
 screenshot: gms-youtube.png
 date: '2017-10-30'
 layout: portfolio
