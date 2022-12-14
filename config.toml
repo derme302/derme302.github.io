@@ -10,6 +10,7 @@ disqusShortname = "dermes-coffee"
 googleAnalytics = "G-NN50SQHH5G"
 enableRobotsTXT = true
 
+enableEmoji = true
 # summarylength = 30
 
 # paginate = 5
