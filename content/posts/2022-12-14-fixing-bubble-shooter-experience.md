@@ -38,4 +38,4 @@ As you can see from the table below, even when they aren't taking your money, th
 | [Bubble Shooter - Snoopy POP!](https://play.google.com/store/apps/details?id=com.jamcity.snoopypop)                       | :white_check_mark: | :x:                | :x:                  | :x:                   | :x:                                  |
 | [Smurfs Bubble Shooter Story](https://play.google.com/store/apps/details?id=com.sonypicturestelevision.smurfslostvillage) | :white_check_mark: | :x:                | :x:                  | :x:                   | :x:                                  |
 
-I will give a shout to Primitive Shooter, which is a pretty close second to Just Bubbles, but still has ads. For focused Bubble Shooter experience you can [download Just Bubbles now](https://frostcube.com/post/just-bubbles/).
+I will give a shout to Primitive Shooter, which is a pretty close second to Just Bubbles, but still has ads. For a focused Bubble Shooter experience you can [download Just Bubbles now](https://frostcube.com/post/just-bubbles/).
