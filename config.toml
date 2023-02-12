@@ -44,8 +44,8 @@ enableEmoji = true
 [params.social]
     github = "derme302"
     gitlab = "derme302"
-    instagram = "derme302"
-    twitter = "derme302"
+    # instagram = ""
+    # twitter = ""
     stackoverflow = "3023853/derme302"
     mastodon = "mastodon.gamedev.place/@derme302"
     # telegram = "derme302"
