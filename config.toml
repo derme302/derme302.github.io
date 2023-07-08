@@ -24,6 +24,7 @@ enableEmoji = true
     dateformat = "Jan 2, 2006"
     layoutReverse = true
     themeColor = "theme-custom-0a"
+    fontAwesome = "9d78b38ada"
 
     # sidebar, copyright & license
     copyright = "Derme"
