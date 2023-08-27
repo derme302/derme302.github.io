@@ -24,6 +24,7 @@ enableEmoji = true
     dateformat = "Jan 2, 2006"
     layoutReverse = true
     themeColor = "theme-custom-0a"
+    fontAwesome = "9d78b38ada"
 
     # sidebar, copyright & license
     copyright = "Derme"
@@ -48,6 +49,7 @@ enableEmoji = true
     # twitter = ""
     stackoverflow = "3023853/derme302"
     mastodon = "mastodon.gamedev.place/@derme302"
+    threads = "@derme302"
     # telegram = "derme302"
     # email = "your-email@example.com"
     # gravatar = "your-email@example.com"
