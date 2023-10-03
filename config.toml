@@ -3,7 +3,7 @@ baseurl = "https://derme.coffee/"
 languageCode = "en"
 
 title = "Derme's Coffee"
-theme = "hyde-hyde"
+theme = "triple-hyde"
 
 ## Hugo Built-in Features
 disqusShortname = "dermes-coffee"
@@ -24,7 +24,6 @@ enableEmoji = true
     dateformat = "Jan 2, 2006"
     layoutReverse = true
     themeColor = "theme-custom-0a"
-    fontAwesome = "9d78b38ada"
 
     # sidebar, copyright & license
     copyright = "Derme"
