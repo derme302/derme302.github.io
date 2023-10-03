@@ -3,7 +3,7 @@ baseurl = "https://derme.coffee/"
 languageCode = "en"
 
 title = "Derme's Coffee"
-theme = "hyde-hyde"
+theme = "triple-hyde"
 
 ## Hugo Built-in Features
 disqusShortname = "dermes-coffee"
@@ -20,17 +20,16 @@ enableEmoji = true
     author = "Author"
     title = "Title"
     # description = "..."
-    authorimage = "/img/DermeCoffeeIcon.png"
+    logoImage = "/img/DermeCoffeeIcon.png"
     dateformat = "Jan 2, 2006"
     layoutReverse = true
     themeColor = "theme-custom-0a"
-    fontAwesome = "9d78b38ada"
 
     # sidebar, copyright & license
     copyright = "Derme"
     # license = "CC BY-SA 4.0"
     # licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = false
+    showBuiltWith = true
     
     # please choose either GraphComment or Disqus or Utterances
     #GraphCommentId = "..."
