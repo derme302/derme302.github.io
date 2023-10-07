@@ -6,7 +6,7 @@ title = "Derme's Coffee"
 theme = "triple-hyde"
 
 ## Hugo Built-in Features
-disqusShortname = "dermes-coffee"
+# disqusShortname = "dermes-coffee"
 googleAnalytics = "G-NN50SQHH5G"
 enableRobotsTXT = true
 
@@ -39,6 +39,20 @@ enableEmoji = true
 
     # Table of contents
     #toc = none, "hugo", or "tocbot"
+
+[params.giscus]
+    repo = "derme302/derme302.github.io"
+    repoID = "MDEwOlJlcG9zaXRvcnkyMzE1MjY4NjU="
+    category = "General"
+    categoryID = "DIC_kwDODczR0c4CZ7_m"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    theme = "light"
+    lang = "en"
+    loading = "lazy"
 
 ## Social Accounts
 [params.social]
