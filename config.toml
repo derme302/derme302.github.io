@@ -95,3 +95,7 @@ enableEmoji = true
     noClasses = true
     style = "github"
     tabWidth = 4
+
+[services]
+  [services.rss]
+    limit = 10
