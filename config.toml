@@ -66,6 +66,7 @@ enableEmoji = true
     # telegram = "derme302"
     # email = "your-email@example.com"
     # gravatar = "your-email@example.com"
+    rss = "https://derme.coffee/index.xml"
 
 ## Main Menu
 [[menu.main]]
