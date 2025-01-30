@@ -16,7 +16,7 @@ tags:
 
 I have not been excited for a video game release for quite some time, but when this was announced I was excited.
 
-When I played the original Homeworld in 1999 I loved it, even though I could never get past the 6<sup>th</sup> mission at the time, it’s a game that’s stuck with me since.
+When I played the original Homeworld in 1999 I loved it, even though I could never get past the 6th mission at the time, it’s a game that’s stuck with me since.
 
 <!--more-->
 

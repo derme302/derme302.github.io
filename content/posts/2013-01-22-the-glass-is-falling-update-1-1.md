@@ -12,7 +12,7 @@ categories:
 ---
 ![The Glass is Falling - Main Menu](http://derme.coffee/uploads/2013/01/r12-20-1-2013-menu.png)
 
-About this time last month I released &#8220;The Glass is Falling&#8221; via the <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=115103698" target="_blank">Steam Workshop</a> and I received some really good feedback about the game. All of this has gone into creating the update which I uploaded yesterday.
+About this time last month I released The Glass is Falling via the [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=115103698) and I received some really good feedback about the game. All of this has gone into creating the update which I uploaded yesterday.
 
 The main points of the update are:
 

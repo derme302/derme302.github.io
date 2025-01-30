@@ -27,7 +27,7 @@ Hosting is only half a website though; the other half is getting a domain name. 
 
 ![000Webhost logo](/uploads/2011/08/uni_cc_logo.gif#center)
  
-- uni.cc - <strike>They have a reliable little set up and</strike> I thought the domain name sounded semi-professional. They do ask that you put a small link to them on your website and that you get 10 visitors in 90 days, but you'll probably end up visiting your site that much by yourself. [EDIT (20/2/2012): Uni.cc have disappeared off the face of the Earth/Internet, I don't know what happened to them either, if you do know please leave a comment.]
+- uni.cc - ~~They have a reliable little set up and~~ I thought the domain name sounded semi-professional. They do ask that you put a small link to them on your website and that you get 10 visitors in 90 days, but you'll probably end up visiting your site that much by yourself. [EDIT (20/2/2012): Uni.cc have disappeared off the face of the Earth/Internet, I don't know what happened to them either, if you do know please leave a comment.]
 
 ![Dot TK logo](/uploads/2011/08/tk_logo.gif#center)
 

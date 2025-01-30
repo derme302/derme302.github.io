@@ -19,7 +19,7 @@ The main reason I decided to go with the Nexus 7 for app development was that it
 
 <!--more-->
     
-<br /> When I was looking at tablets in stores, 7&#8243; seemed way to small as my netbook is 11&#8243; and there never seems to be enough room on the screen. Once I'd sat down and used it for a few hours I actually understand why 7&#8243; is so much better than a 10&#8243; iPad or Samsung Galaxy Tab. 7&#8243; means I can hold it in one hand easily, leaving the other free to swipe and tap away.
+When I was looking at tablets in stores, 7" seemed way to small as my netbook is 11" and there never seems to be enough room on the screen. Once I'd sat down and used it for a few hours I actually understand why 7" is so much better than a 10" iPad or Samsung Galaxy Tab. 7" means I can hold it in one hand easily, leaving the other free to swipe and tap away.
 
 
 

@@ -17,4 +17,4 @@ So today I finally decided to pick up [Hexels](http://hexraystudios.com/hexels/)
 ![Example Hexel](/uploads/2013/11/RotatedHexel.png)
 _Quick mock-up demonstrating rotated Hexel_
 
-If you need this for one of your projects you can <span style="text-decoration: line-through;">download it here</span> (EDIT 22/5/2014 - Hexels now includes rotated hexels as a preset, you can find it in the custom shape section). Happy Hexeling!
+If you need this for one of your projects you can ~~~~download it here~~ (EDIT 22/5/2014 - Hexels now includes rotated hexels as a preset, you can find it in the custom shape section). Happy Hexeling!
